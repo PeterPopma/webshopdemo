@@ -1,0 +1,4 @@
+create services with start.spring.io
+
+intellij new run configuration maven, spring-boot:build-image
+
